@@ -21,9 +21,9 @@ drawings:
   persist: false
 ---
 
-# Welcome to Slidev
+# March 18, 2022 Call Review
 
-Presentation slides for developers
+Did I learn anything?
 
 <div class="pt-12">
   <span @click="$slidev.nav.next" class="px-2 py-1 rounded cursor-pointer" hover="bg-white bg-opacity-10">
